@@ -45,7 +45,7 @@ Selenium
     * Logout Test
     * Registration Test
     * Add Product to the Cart Test
-    * Remove Product to the Cart Test
+    * Remove Product from the Cart Test
     * Buy product Test
     * Logo and Search Field Test
     * Search Field Test
